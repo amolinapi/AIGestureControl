@@ -39,7 +39,7 @@ Este proyecto es una **Interfaz Hombre-Máquina (HMI)** avanzada que utiliza **I
 
 2.  **Instalar dependencias:**
     ```bash
-    pip install opencv-python mediapipe pyautogui numpy
+    pip install -r requirements.txt
     ```
 
 ---
